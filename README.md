@@ -2,12 +2,11 @@
 Um programa simples para automatizar o envio do resultado de simulados des alunes.
 
 ## Dependências
-- ReportLab `pip install reportlab`
-- Unidecode `pip install unidecode`
+
 
 ## Uso
 ```
-usage: certificados.py [-h] [-l NAMES_LIST] [-i INFO] [-s STRINGS] [-b BACKGROUND]
+usage: enviar_resultados.py
 
 ```
 
