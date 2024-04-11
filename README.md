@@ -2,7 +2,7 @@
 Um programa simples para automatizar o envio do resultado de simulados des alunes.
 
 ## Dependências
-
+- PyPDF2 `pip install PyPDF2`
 
 ## Uso
 ```
